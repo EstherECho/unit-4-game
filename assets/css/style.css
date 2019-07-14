@@ -50,15 +50,33 @@ body {
       font-size: 35px;
     }
 
-.random-number {
-  margin-left: 80px;
-  background-color: lightblue;
-  width: 200px;
-  height: 90px;
-  text-align: center;
-  font-weight: bold;
-  padding-top: 10px;
-}
+    #wins {
+      background-color:gold;
+      width: 175px;
+      height: 50px;
+      padding-right: 70px;
+      padding-left: 70px;
+      font-size: 35px;
+    }
+
+    #losses {
+      background-color:gold;
+      width: 175px;
+      height: 50px;
+      padding-right: 70px;
+      padding-left: 70px;
+      font-size: 35px;
+    }
+
+  .random-number {
+    margin-left: 80px;
+    background-color: lightblue;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+  }
 
   #number-to-guess {
     font-size: 50px;
